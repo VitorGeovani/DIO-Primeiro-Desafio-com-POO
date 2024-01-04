@@ -1,0 +1,14 @@
+D:\Vitor\Meus Documentos\Documents\Bootcamps\Bootcamp-Avanade\Desafios\Primeiro-Desafio-com-POO\bin\Debug\net8.0\Primeiro-Desafio-com-POO.exe
+D:\Vitor\Meus Documentos\Documents\Bootcamps\Bootcamp-Avanade\Desafios\Primeiro-Desafio-com-POO\bin\Debug\net8.0\Primeiro-Desafio-com-POO.deps.json
+D:\Vitor\Meus Documentos\Documents\Bootcamps\Bootcamp-Avanade\Desafios\Primeiro-Desafio-com-POO\bin\Debug\net8.0\Primeiro-Desafio-com-POO.runtimeconfig.json
+D:\Vitor\Meus Documentos\Documents\Bootcamps\Bootcamp-Avanade\Desafios\Primeiro-Desafio-com-POO\bin\Debug\net8.0\Primeiro-Desafio-com-POO.dll
+D:\Vitor\Meus Documentos\Documents\Bootcamps\Bootcamp-Avanade\Desafios\Primeiro-Desafio-com-POO\bin\Debug\net8.0\Primeiro-Desafio-com-POO.pdb
+D:\Vitor\Meus Documentos\Documents\Bootcamps\Bootcamp-Avanade\Desafios\Primeiro-Desafio-com-POO\obj\Debug\net8.0\Primeiro-Desafio-com-POO.GeneratedMSBuildEditorConfig.editorconfig
+D:\Vitor\Meus Documentos\Documents\Bootcamps\Bootcamp-Avanade\Desafios\Primeiro-Desafio-com-POO\obj\Debug\net8.0\Primeiro-Desafio-com-POO.AssemblyInfoInputs.cache
+D:\Vitor\Meus Documentos\Documents\Bootcamps\Bootcamp-Avanade\Desafios\Primeiro-Desafio-com-POO\obj\Debug\net8.0\Primeiro-Desafio-com-POO.AssemblyInfo.cs
+D:\Vitor\Meus Documentos\Documents\Bootcamps\Bootcamp-Avanade\Desafios\Primeiro-Desafio-com-POO\obj\Debug\net8.0\Primeiro-Desafio-com-POO.csproj.CoreCompileInputs.cache
+D:\Vitor\Meus Documentos\Documents\Bootcamps\Bootcamp-Avanade\Desafios\Primeiro-Desafio-com-POO\obj\Debug\net8.0\Primeiro-Desafio-com-POO.dll
+D:\Vitor\Meus Documentos\Documents\Bootcamps\Bootcamp-Avanade\Desafios\Primeiro-Desafio-com-POO\obj\Debug\net8.0\refint\Primeiro-Desafio-com-POO.dll
+D:\Vitor\Meus Documentos\Documents\Bootcamps\Bootcamp-Avanade\Desafios\Primeiro-Desafio-com-POO\obj\Debug\net8.0\Primeiro-Desafio-com-POO.pdb
+D:\Vitor\Meus Documentos\Documents\Bootcamps\Bootcamp-Avanade\Desafios\Primeiro-Desafio-com-POO\obj\Debug\net8.0\Primeiro-Desafio-com-POO.genruntimeconfig.cache
+D:\Vitor\Meus Documentos\Documents\Bootcamps\Bootcamp-Avanade\Desafios\Primeiro-Desafio-com-POO\obj\Debug\net8.0\ref\Primeiro-Desafio-com-POO.dll
